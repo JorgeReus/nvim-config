@@ -13,6 +13,7 @@ return {
         svelte = {},
         jdtls = {},
         dockerls = {},
+        rust_analyzer = {},
       },
     },
   },
