@@ -14,6 +14,7 @@ return {
         jdtls = {},
         dockerls = {},
         rust_analyzer = {},
+        -- kotlin_language_server = {},
       },
     },
   },

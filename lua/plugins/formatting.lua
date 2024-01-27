@@ -10,7 +10,7 @@ return {
         typescript = { "prettier" },
         javascript = { "prettier" },
         yaml = { "yamlfmt" },
-        java = { "google-java-format" },
+        -- java = { "google-java-format" },
         json = { "deno_fmt" },
         ["*"] = { "trim_newlines", "trim_whitespace" },
       },
